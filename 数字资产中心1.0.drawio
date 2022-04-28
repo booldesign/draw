@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-04-28T15:02:01.602Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.41 Safari/537.36" etag="DapJfJxl2fW9aYq9IXrl" version="17.4.6" type="github">
+<mxfile host="app.diagrams.net" modified="2022-04-28T15:03:41.010Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.41 Safari/537.36" etag="wnTJGvTz5AKSZ5Q1C4aB" version="17.4.6" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="823" dy="1620" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="823" dy="1571" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -164,22 +164,22 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="DaFXscNUTRdYXwU_u2qZ-46" value="类型" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="730" y="1001" width="90" height="35" as="geometry" />
+          <mxGeometry x="730" y="985" width="90" height="35" as="geometry" />
         </mxCell>
         <mxCell id="DaFXscNUTRdYXwU_u2qZ-48" value="贴图" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="880" y="903.5" width="90" height="35" as="geometry" />
+          <mxGeometry x="880" y="887.5" width="90" height="35" as="geometry" />
         </mxCell>
         <mxCell id="DaFXscNUTRdYXwU_u2qZ-50" value="笔刷" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="880" y="953.5" width="90" height="35" as="geometry" />
+          <mxGeometry x="880" y="937.5" width="90" height="35" as="geometry" />
         </mxCell>
         <mxCell id="DaFXscNUTRdYXwU_u2qZ-52" value="透贴" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="880" y="1001" width="90" height="35" as="geometry" />
+          <mxGeometry x="880" y="985" width="90" height="35" as="geometry" />
         </mxCell>
         <mxCell id="DaFXscNUTRdYXwU_u2qZ-54" value="类型" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="880" y="1048.5" width="90" height="35" as="geometry" />
+          <mxGeometry x="880" y="1032.5" width="90" height="35" as="geometry" />
         </mxCell>
         <mxCell id="DaFXscNUTRdYXwU_u2qZ-56" value="&lt;div&gt;&lt;span style=&quot;font-family: &amp;#34;larkhacksafarifont&amp;#34; , &amp;#34;larkemojifont&amp;#34; , &amp;#34;larkchinesequote&amp;#34; , , &amp;#34;blinkmacsystemfont&amp;#34; , &amp;#34;helvetica neue&amp;#34; , &amp;#34;arial&amp;#34; , &amp;#34;segoe ui&amp;#34; , &amp;#34;pingfang sc&amp;#34; , &amp;#34;microsoft yahei&amp;#34; , &amp;#34;hiragino sans gb&amp;#34; , sans-serif , &amp;#34;apple color emoji&amp;#34; , &amp;#34;segoe ui emoji&amp;#34; , &amp;#34;segoe ui symbol&amp;#34; , &amp;#34;noto color emoji&amp;#34;&quot;&gt;&lt;span style=&quot;font-size: 13px&quot;&gt;组合&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="880" y="1093.5" width="90" height="35" as="geometry" />
+          <mxGeometry x="880" y="1077.5" width="90" height="35" as="geometry" />
         </mxCell>
         <mxCell id="DaFXscNUTRdYXwU_u2qZ-63" value="“资产包详情”页" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="464" y="158" width="204" height="30" as="geometry" />
@@ -277,7 +277,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="DaFXscNUTRdYXwU_u2qZ-118" value="唯一校验" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;disableMultiStrokeFill=0;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="715" y="938.5" width="120" height="30" as="geometry" />
+          <mxGeometry x="715" y="922.5" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="DaFXscNUTRdYXwU_u2qZ-120" value="资产类型修改" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="464" y="1183.5" width="204" height="30" as="geometry" />
