@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-05-07T02:04:25.840Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.54 Safari/537.36" etag="YxVvHbGPqTdetqgEVA3v" version="18.0.1" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2022-05-07T03:00:22.947Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.54 Safari/537.36" etag="lcT6O5V992HwVXuSe5FO" version="18.0.1" type="github" pages="3">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="all">
     <mxGraphModel dx="946" dy="1682" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -749,7 +749,7 @@
             <mxRectangle width="30" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="F_34b5jo6EodDK-DppNW-64" value="`is_closed` tinyint(1) COMMENT &#39;是否封闭 0:封闭; 1:不封闭;&#39;" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;" parent="F_34b5jo6EodDK-DppNW-62" vertex="1">
+        <mxCell id="F_34b5jo6EodDK-DppNW-64" value="`is_closed` tinyint(1) COMMENT &#39;是否封闭 1:封闭; 2:不封闭;&#39;" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;" parent="F_34b5jo6EodDK-DppNW-62" vertex="1">
           <mxGeometry x="30" width="390" height="30" as="geometry">
             <mxRectangle width="390" height="30" as="alternateBounds" />
           </mxGeometry>
@@ -814,7 +814,7 @@
             <mxRectangle width="30" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="F_34b5jo6EodDK-DppNW-79" value="`status` tinyint(1) COMMENT &#39;状态 -1:删除; 0:正常; 1:禁用;&#39;" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;" parent="F_34b5jo6EodDK-DppNW-77" vertex="1">
+        <mxCell id="F_34b5jo6EodDK-DppNW-79" value="`status` tinyint(1) COMMENT &#39;状态 -1:删除; 1:正常; 2:禁用;&#39;" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;" parent="F_34b5jo6EodDK-DppNW-77" vertex="1">
           <mxGeometry x="30" width="390" height="30" as="geometry">
             <mxRectangle width="390" height="30" as="alternateBounds" />
           </mxGeometry>
@@ -984,7 +984,7 @@
             <mxRectangle width="30" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="F_34b5jo6EodDK-DppNW-189" value="`status` tinyint(1) COMMENT &#39;状态 -1:删除; 0:正常; 1:禁用;&#39;" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;" parent="F_34b5jo6EodDK-DppNW-187" vertex="1">
+        <mxCell id="F_34b5jo6EodDK-DppNW-189" value="`status` tinyint(1) COMMENT &#39;状态 -1:删除; 1:正常; 2:禁用;&#39;" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;" parent="F_34b5jo6EodDK-DppNW-187" vertex="1">
           <mxGeometry x="30" width="330" height="30" as="geometry">
             <mxRectangle width="330" height="30" as="alternateBounds" />
           </mxGeometry>
@@ -1078,7 +1078,7 @@
             <mxRectangle width="30" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="btJszyg0HjMSsZluTOSx-3" value="`is_default` tinyint(1) COMMENT &#39;默认预览图 1:是 0否&#39;" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;" parent="btJszyg0HjMSsZluTOSx-1" vertex="1">
+        <mxCell id="btJszyg0HjMSsZluTOSx-3" value="`is_default` tinyint(1) COMMENT &#39;默认预览图 1:否; 2:是;&#39;" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;" parent="btJszyg0HjMSsZluTOSx-1" vertex="1">
           <mxGeometry x="30" width="330" height="30" as="geometry">
             <mxRectangle width="330" height="30" as="alternateBounds" />
           </mxGeometry>
@@ -1091,7 +1091,7 @@
             <mxRectangle width="30" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="F_34b5jo6EodDK-DppNW-208" value="`status` tinyint(1) COMMENT &#39;状态 -1:删除; 0:正常; 1:禁用;&#39;" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;" parent="F_34b5jo6EodDK-DppNW-206" vertex="1">
+        <mxCell id="F_34b5jo6EodDK-DppNW-208" value="`status` tinyint(1) COMMENT &#39;状态 -1:删除; 1:正常; 2:禁用;&#39;" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;" parent="F_34b5jo6EodDK-DppNW-206" vertex="1">
           <mxGeometry x="30" width="330" height="30" as="geometry">
             <mxRectangle width="330" height="30" as="alternateBounds" />
           </mxGeometry>
@@ -1209,7 +1209,7 @@
             <mxRectangle width="30" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="5UsDiWK79urw-ou_i29c-43" value="`status` tinyint(1) COMMENT &#39;状态 -1:删除; 0:正常; 1:禁用;&#39;" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;" vertex="1" parent="5UsDiWK79urw-ou_i29c-41">
+        <mxCell id="5UsDiWK79urw-ou_i29c-43" value="`status` tinyint(1) COMMENT &#39;状态 -1:删除; 1:正常; 2:禁用;&#39;" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;" vertex="1" parent="5UsDiWK79urw-ou_i29c-41">
           <mxGeometry x="30" width="330" height="30" as="geometry">
             <mxRectangle width="330" height="30" as="alternateBounds" />
           </mxGeometry>
